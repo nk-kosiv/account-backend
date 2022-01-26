@@ -1,3 +1,7 @@
-# nazar-khrushch-gmp-ng
+# nazar-khrushch-user-group project
 
-Node.js Global Mentoring program repo
+## Technologies was user:
+- Node.js, Express.js
+- TypeScript,
+- PostgresQL
+
